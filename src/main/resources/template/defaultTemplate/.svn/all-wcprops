@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/template/defaultTemplate
+END
+js.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/template/defaultTemplate/js.ftl
+END
+modelArray.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/template/defaultTemplate/modelArray.ftl
+END
+model.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/template/defaultTemplate/model.ftl
+END
+service.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/template/defaultTemplate/service.ftl
+END
+jsp_edit.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/template/defaultTemplate/jsp_edit.ftl
+END
+serviceImpl.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/template/defaultTemplate/serviceImpl.ftl
+END
+controller.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/template/defaultTemplate/controller.ftl
+END
+dao.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/template/defaultTemplate/dao.ftl
+END
+jsp_add.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/template/defaultTemplate/jsp_add.ftl
+END
+mapper.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/template/defaultTemplate/mapper.ftl
+END
+daoImpl.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/template/defaultTemplate/daoImpl.ftl
+END
+jsp_manager.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/template/defaultTemplate/jsp_manager.ftl
+END

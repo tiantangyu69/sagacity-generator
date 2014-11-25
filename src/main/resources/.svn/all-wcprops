@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources
+END
+generator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/generator.xml
+END
+project.pdm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/project.pdm
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/resources/jdbc.properties
+END

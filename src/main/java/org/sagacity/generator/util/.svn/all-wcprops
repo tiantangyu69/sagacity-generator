@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/java/org/sagacity/generator/util
+END
+SQLConvert.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/java/org/sagacity/generator/util/SQLConvert.java
+END
+JDBCFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/java/org/sagacity/generator/util/JDBCFile.java
+END
+DataBaseConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/java/org/sagacity/generator/util/DataBaseConnection.java
+END
+DataBaseHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/java/org/sagacity/generator/util/DataBaseHelper.java
+END
+JDBCPropertyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/java/org/sagacity/generator/util/JDBCPropertyUtils.java
+END
+RefJS.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/java/org/sagacity/generator/util/RefJS.java
+END
+AutoMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/baseweb/!svn/ver/2/jSagacity-generator/src/main/java/org/sagacity/generator/util/AutoMenu.java
+END
